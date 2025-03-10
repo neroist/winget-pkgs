@@ -9,14 +9,14 @@ ProductCode: Kiten
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/education/kiten/master/windows/kiten-master-756-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 785E3EBBBA9D44767A096D2762B023745F2049EA6454AFD1B2539DB7CC4DD9C2
+  InstallerUrl: https://cdn.kde.org/ci-builds/education/kiten/master/windows/kiten-master-778-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: CBB0F81580E3BD4D6E204C1BEA92B7F67E9CCC2F59AABD66F9CD79EB2795F922
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/education/kiten/master/windows/kiten-master-756-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 785E3EBBBA9D44767A096D2762B023745F2049EA6454AFD1B2539DB7CC4DD9C2
+  InstallerUrl: https://cdn.kde.org/ci-builds/education/kiten/master/windows/kiten-master-778-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: CBB0F81580E3BD4D6E204C1BEA92B7F67E9CCC2F59AABD66F9CD79EB2795F922
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
